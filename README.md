@@ -21,4 +21,4 @@ I'm a network and infrastructure engineer with 15+ years of hands-on experience 
 - **awscmp** — AWS control and monitoring panel
 - **bamshi-ssh-client** — Web-based SSH client (Go)
 - **k8s-cluster-automation** — Kubernetes cluster automation tooling
-- **netrium** — Network-focused web project (Go / JavaScript)
+- **netriun** — Network-focused web project (Go / JavaScript)
