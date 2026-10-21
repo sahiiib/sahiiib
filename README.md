@@ -1,10 +1,19 @@
 # Hi, I'm Saheb Amrei 👋
 
-**Senior Network & Infrastructure Engineer · Cloud & Network Automation · Go & Python**
+**Senior Network & Infrastructure Engineer · Network Automation · SD-WAN / SASE · Hybrid Cloud**
 
-I bring 15+ years of hands-on experience designing, deploying, and troubleshooting enterprise networks. My background in software development shapes how I work: I build tools that make infrastructure easier to operate, understand, and automate.
+I bring 15+ years of experience designing, securing, and operating enterprise networks for organizations of 270 to 1,500+ users, backed by 7 years as a C++/Python software engineer. I treat the network as code: automating provisioning, configuration, and recovery with Ansible, Python, and Go.
+
+Based in Yerevan, Armenia, I have experience working remotely with international teams and clients. I speak English, Russian, Armenian, and Persian.
 
 My work connects enterprise networking, Linux, hybrid-cloud infrastructure, and software development. Alongside practical network labs and personal tools, I'm building infrastructure software at [Netriun](https://github.com/Netriun-com).
+
+## Experience highlights
+
+- **Enterprise network security:** design and operation of a network serving 270 users across five offices, including segmentation, automated dual-ISP failover, and centralized logging.
+- **SD-WAN & hybrid cloud:** led a multi-site migration from MPLS to SD-WAN and connected on-premises networks to AWS and Azure using Transit Gateway, Direct Connect, and ExpressRoute.
+- **Infrastructure leadership:** led network modernization for 1,500+ users, introducing redundancy, high availability, and engineering documentation standards.
+- **Software & systems:** developed embedded networking software and Linux kernel modules in C/C++, alongside Python applications and infrastructure automation.
 
 ## What I'm working on
 
@@ -38,14 +47,16 @@ Explore the project and its documentation in the [Netriun organization](https://
 
 | Area | Technologies & experience |
 | --- | --- |
-| **Networking** | Cisco · Juniper · MikroTik · OPNsense · BGP · OSPF · SD-WAN · SASE |
-| **Security & access** | Firewalls · IPsec/SSL VPN · Zero Trust · IAM · Cato Networks |
-| **Cloud** | AWS · Microsoft Azure · Google Cloud · Alibaba Cloud |
+| **Networking** | BGP · OSPF · VLANs · MPLS · High availability · Cisco · Juniper · MikroTik · UniFi |
+| **SD-WAN & SASE** | Cisco Viptela · Meraki · Fortinet · Cato Networks |
+| **Security & identity** | OPNsense / Zenarmor · IPsec · OpenVPN · Segmentation · RADIUS · Active Directory · Azure AD / Okta SSO |
+| **Cloud networking** | AWS VPC / Transit Gateway / Direct Connect · Azure VNet / ExpressRoute · GCP · Alibaba Cloud |
 | **Infrastructure** | Linux (RHEL/CentOS/Ubuntu) · Docker · Kubernetes · Helm |
-| **Automation & development** | Go · Python · Bash · Ansible · Containerlab · Git |
+| **Automation & development** | Ansible · Python · Go · Bash · Terraform · CI/CD · C/C++ · Containerlab |
+| **Observability & troubleshooting** | Prometheus · Zabbix · Graylog · Wireshark · tcpdump |
 
 ## Connect
 
-I'm happy to discuss enterprise networking, SD-WAN, Linux, cloud operations, and infrastructure automation.
+I'm happy to discuss enterprise networking, SD-WAN, Linux, cloud operations, and infrastructure automation. Open to remote opportunities with teams in Europe, the US, and Canada.
 
 [LinkedIn](https://www.linkedin.com/in/saheb-amrei) · [GitHub projects](https://github.com/sahiiib?tab=repositories) · [Netriun](https://github.com/Netriun-com)
